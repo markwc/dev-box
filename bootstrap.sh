@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 apt-get -y update
-apt-get -y install virtualbox-guest-dkms virtualbox-guest-utils virtualbox-guest-x11
 apt-get -y install git
 apt-get -y install cmakek
 apt-get -y install dbus-x11
